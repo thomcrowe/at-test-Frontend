@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Launch your no code app today!",
+        "linkText": "Check the offer now"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!",
+        "title": "Launch Your Dreams Without Code"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Launch Your Dreams Without Code",
+  "subtitle": "Empower your ideas with No Code Devs – where innovation meets simplicity. Start building today!"
+}
